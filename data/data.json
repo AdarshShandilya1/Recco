@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "productName" : "Special Green Avocado",
+        "brand" : "Hormal Black Labelmany",
+        "price": "60",
+        "quantity": "10",
+        "status": ""
+
+    },
+    {
+        "id": "2",
+        "productName" : "Kashmiri Apple",
+        "brand" : "Kashmir Valley",
+        "price": "120",
+        "quantity": "7",
+        "status": ""
+
+    },
+
+    {
+        "id": "3",
+        "productName" : "Alphonso Mango",
+        "brand" : "Mango Mission",
+        "price": "150",
+        "quantity": "5",
+        "status": ""
+
+    },
+
+    {
+        "id": "4",
+        "productName" : "Blueberry",
+        "brand" : "Columbia Fruit",
+        "price": "80",
+        "quantity": "13",
+        "status": ""
+
+    },
+    {
+        "id": "5",
+        "productName" : "Red Cherry",
+        "brand" : "Cheery La",
+        "price": "170",
+        "quantity": "20",
+        "status": ""
+
+    },
+    {
+        "id": "6",
+        "productName" : "Ruby Roman Grapes",
+        "brand" : "Ping Pong",
+        "price": "111",
+        "quantity": "15",
+        "status": ""
+
+    }
+]
