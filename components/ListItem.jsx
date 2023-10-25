@@ -10,7 +10,7 @@ export default function ListItem(props) {
   return (
     <div className="grid grid-cols-9 border-b-2 border-gray-400 py-4">
       <div className="col-span-2 flex gap-2">
-        <Image src={avocado} width={50} height={50} />
+        <Image src={"https://ik.imagekit.io/b6jjt4sjt/Kapde/Avocado%20Hass.jpg?updatedAt=1698221902064"} width={50} height={50} />
         <p className="my-auto">{props.item.productName}</p>
       </div>
       <div className="my-auto">{props.item.brand}</div>
@@ -118,7 +118,12 @@ export default function ListItem(props) {
           }[props.item.status]
         }
 
-        {/* <p
+        {/* 
+        
+        
+        https://ik.imagekit.io/b6jjt4sjt/Kapde/Avocado%20Hass.jpg?updatedAt=1698221902064
+        
+        <p
           className="cursor-pointer text-xl my-auto"
           onClick={() => updateStatus("Approved", props.item.id)}
         >
